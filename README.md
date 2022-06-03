@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @treacy-ian
 - 👀 I’m interested in gaming and coding, collaborative ideas
 - 🌱 I’m currently learning the basics of coding, C, Java, AWS Cloud Computing
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anytthing that will further my learning and education
 - 📫 You can reach me at treacywhian@gmail.com
 
 <!---
